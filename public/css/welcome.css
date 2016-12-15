@@ -1,0 +1,11 @@
+#splash{
+    background: url('../image/bg_img.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.navbar{
+	background-color: #030100;
+	border-bottom: 1px solid #304a1e;
+}
